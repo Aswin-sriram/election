@@ -2,11 +2,11 @@
 
 #Test Cases
 
-Enter the number of residents: 3
-Enter the number of booths: 3
-Enter name of resident 1: r1
-Enter name of resident 2: r2
-Enter name of resident 3: r3
+#Enter the number of residents: 3
+#Enter the number of booths: 3
+#Enter name of resident 1: r1
+#Enter name of resident 2: r2
+#Enter name of resident 3: r3
 Enter name of booth 1: b1
 Enter name of booth 2: b2
 Enter name of booth 3: b3
